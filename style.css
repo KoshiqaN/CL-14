@@ -39,6 +39,7 @@ h1 {
 
 .bg.front {
   z-index: 3;
+  pointer-events: none;
 }
 
 /* 小さな生きもの */
